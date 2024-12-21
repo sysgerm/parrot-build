@@ -10,5 +10,6 @@
 - syntax for ansible
 - script for getting burp cert
 - depth 1 for github repo's (just took too long)
+- installed rsyslog
 
 **Sometimes github rate limits you, just try again**
