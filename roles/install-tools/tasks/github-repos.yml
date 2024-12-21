@@ -4,6 +4,7 @@
     repo: "{{ item.repo }}"
     dest: "{{ item.location }}"
     accept_hostkey: yes
+    depth: 1
   loop:
     - { repo: "https://github.com/Flangvik/SharpCollection", location: "/opt/SharpCollection" }
     - { repo: "https://github.com/danielmiessler/SecLists", location: "/opt/SecLists" }
