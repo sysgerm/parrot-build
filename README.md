@@ -11,5 +11,7 @@
 - script for getting burp cert
 - depth 1 for github repo's (just took too long)
 - installed rsyslog
+- term size
+- CA dir
 
 **Sometimes github rate limits you, just try again**
