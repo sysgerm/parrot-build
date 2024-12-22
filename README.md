@@ -8,8 +8,11 @@
 ## Updated
 
 - syntax for ansible
-- script for getting burp cert
 - installed rsyslog
 - term size
+
+### WIP
+
+CA cert
 
 **Sometimes github rate limits you, just try again**
